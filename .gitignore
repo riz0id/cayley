@@ -1,0 +1,7 @@
+dist
+dist-newstyle
+logfile
+.data
+.vscode
+**/etrade-client-state.json
+**/*.sql
